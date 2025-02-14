@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Fundamentals .NET\"  ",
+      "query": "path:\"Knowledge Base/{.NET}\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"SQL Server\"  ",
+      "query": "path:\"Knowledge Base/SQL\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -32,6 +32,6 @@
   "repelStrength": 12.8125,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6316046762907609,
-  "close": false
+  "scale": 0.4505081176757959,
+  "close": true
 }

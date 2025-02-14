@@ -366,3 +366,8 @@ FodyWeavers.xsd
 .obsidian/cache
 .DS_Store
 *.log
+
+
+
+# Ignore Smart Environment folder
+.smart-env

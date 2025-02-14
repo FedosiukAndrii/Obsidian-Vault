@@ -4,7 +4,7 @@
 
 ## 1. Основи C# та .NET
 
-1. **Типи даних у .NET**
+1. **[[Data types]] у .NET**
     
     - Value types vs Reference types (struct, class).
     - Nullable types.
