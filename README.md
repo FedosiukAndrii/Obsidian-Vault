@@ -1,3 +1,4 @@
+
 ---
 
 # 📂 Obsidian Vault Setup Guide

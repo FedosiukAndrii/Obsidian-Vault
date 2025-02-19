@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a68686c81618a1db",
+        "id": "ad568ae299e311eb",
         "type": "tabs",
         "children": [
           {
-            "id": "86d4635101101e32",
+            "id": "bebc017a9a4e2dbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Topics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topics"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 601.5
   },
   "right": {
     "id": "2a6726af4ae94c70",
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Topics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Topics"
             }
           }
         ],
@@ -158,50 +163,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "86d4635101101e32",
+  "active": "bebc017a9a4e2dbe",
   "lastOpenFiles": [
-    "Knowledge Base/{.NET}/MemmoryManagement/IDisposable Pattern.md",
+    "Knowledge Base/{.NET}/MemmoryManagement/Weak Reference.md",
     "Topics.md",
-    "Типи даних.md",
-    "Knowledge Base/{.NET}/Programming Concepts/Ref Out, difference .NET.md",
-    "Knowledge Base/SQL/Query Optimization/Indexes.md",
-    "Knowledge Base/{.NET}/MemmoryManagement/Finalizer.md",
+    "Knowledge Base/{.NET}/Architecture & Design/Outbox Pattern.md",
+    "Knowledge Base/{.NET}/Data & ORM/EF Core/Transaction Management в EF Core.md",
+    "README.md",
+    "Knowledge Base/{.NET}/Data & ORM/EF Core/Lazy Loading.md",
+    "Knowledge Base/{.NET}/Fundamentals/Collections.md",
+    "Knowledge Base/{.NET}/Fundamentals/Big O.md",
+    "Knowledge Base/{.NET}/Programming Concepts/Concurency/Concurent collections.md",
+    "Knowledge Base/{.NET}/Programming Concepts/Concurency/Synchronization primitives.md",
+    "Knowledge Base/{.NET}/Programming Concepts/Concurency",
+    "Knowledge Base/{.NET}/Web Development/IoC, DI.md",
+    "Knowledge Base/{.NET}/Architecture & Design/Solid Principles.md",
+    "Knowledge Base/{.NET}/Architecture & Design/Microservices communication.md",
+    "Knowledge Base/{.NET}/MemmoryManagement/Unsafe code.md",
     "Knowledge Base/{.NET}/MemmoryManagement/SafeHandler.md",
-    "Knowledge Base/{.NET}/MemmoryManagement/Garbage Collector.md",
-    "Knowledge Base/{.NET}/MemmoryManagement/General principals of memory management.md",
     "Knowledge Base/{.NET}/MemmoryManagement/Ref Struct.md",
-    "Knowledge Base/{.NET}/Fundamentals/Exceptions.md",
-    "Knowledge Base/{.NET}/MemmoryManagement/Memmory and Span.md",
-    "Knowledge Base/{.NET}/Programming Concepts/Generics, coovariancy + contrvariancy.md",
-    "Untitled.canvas",
-    "2025-02-13.md",
-    "Knowledge Base/SQL/Transactions & Concurrency/Optimic and Pessimistic Concurrency.md",
-    "Knowledge Base/{.NET}/Fundamentals/Events.md",
-    "Knowledge Base/{.NET}/Data & ORM/EF Core",
     "Knowledge Base/{.NET}/MemmoryManagement/MemmoryPool.md",
-    "Untitled.md",
+    "Knowledge Base/{.NET}/MemmoryManagement/Memmory and Span.md",
+    "Knowledge Base/{.NET}/MemmoryManagement/IDisposable Pattern.md",
+    "Knowledge Base/{.NET}/MemmoryManagement/General principals of memory management.md",
+    "Knowledge Base/{.NET}/MemmoryManagement/Finalizer.md",
+    "Knowledge Base/{.NET}/MemmoryManagement/Garbage Collector.md",
     "Knowledge Base/{.NET}/MemmoryManagement",
+    "Knowledge Base/{.NET}/Fundamentals/Exceptions.md",
+    "Knowledge Base/{.NET}/Performance & Optimization/MemmoryManagement/Unsafe code.md",
+    "Knowledge Base/{.NET}/Performance & Optimization/MemmoryManagement/Ref Struct.md",
+    "Knowledge Base/{.NET}/Performance & Optimization/MemmoryManagement/Memmory and Span.md",
+    "Knowledge Base/{.NET}/Performance & Optimization/MemmoryManagement",
+    "Untitled.canvas",
+    "Knowledge Base/{.NET}/Data & ORM/EF Core",
     "Knowledge Base/Security",
     "Knowledge Base/DevOps & Cloud",
     "Knowledge Base/General Programming",
     "Knowledge Base/SQL/Transactions & Concurrency",
     "Knowledge Base/SQL/Security",
-    "Knowledge Base/SQL/Stored Procedures & Functions",
-    "Knowledge Base/SQL/Query Optimization",
-    "Knowledge Base/SQL/Fundamentals",
-    "Knowledge Base/{.NET}/Programming Concepts/AsyncAwait .NET.md",
-    "Knowledge Base/{.NET}/Architecture & Design/Microservices communication.md",
-    "Knowledge Base/{.NET}/Data & ORM/Interceptors.md",
-    "Knowledge Base/{.NET}/Data & ORM/EF Core/EF compiled queries.md",
-    "Knowledge Base/{.NET}/Fundamentals/Boxing Unboxing.md",
-    "Knowledge Base/{.NET}/Fundamentals/Data types.md",
-    "Knowledge Base/{.NET}/MemmoryManagement/Unsafe code.md",
-    "Knowledge Base/{.NET}/Web Development/WebHooks vs WebSockets.md"
+    "Knowledge Base/SQL/Stored Procedures & Functions"
   ]
 }
